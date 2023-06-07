@@ -1,20 +1,18 @@
 # YeOldeBookshop
-Assignment for BCIT141 Website Development
+Assignment for BCIT141 Website Development as part of the Diploma of Website Development and Design at Ara Institute of Canterbury.
 
-This project was for an assignment as part of my study at Ara Institute of Canterbury.
+For this assignment I had to design and create a website for an imaginary client, which required a specification document, website designs, the completed website, and any change request forms.
 
-I had to design and create a website for an imaginary client, which required a specification document, website designs, the completed website, and any change request forms. 
-
-The specifications document covered: 
-Client Details, 
-Goals and Objectives, 
-Target Audience, 
-Website Structure, 
-Website Content, 
-User Interaction, 
-Designs (including narrow and widescreen designs), 
-SEO, 
-Domain Name and Hosting recommendations, 
+The specifications document covered:
+Client Details,
+Goals and Objectives,
+Target Audience,
+Website Structure,
+Website Content,
+User Interaction,
+Designs (including narrow and widescreen designs),
+SEO,
+Domain Name and Hosting recommendations,
 Copyright,
 and Budget.
 
