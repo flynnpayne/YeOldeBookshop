@@ -1,4 +1,4 @@
-# YeOldeBookshop
+# Ye Olde Bookshop
 
 https://spikedasp47.github.io/YeOldeBookshop/
 
