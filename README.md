@@ -1,6 +1,6 @@
 # Ye Olde Bookshop
 
-https://spikedasp47.github.io/YeOldeBookshop/
+https://flynnpayne.github.io/YeOldeBookshop/
 
 Assignment for BCIT141 Website Development as part of the Diploma of Website Development and Design at Ara Institute of Canterbury.
 
